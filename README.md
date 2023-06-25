@@ -1,4 +1,8 @@
-# libreml-license A pair of copyleft and permissive licenses for ML model distribution
+# libreml-license
+
+A pair of copyleft and permissive licenses for ML model distribution
+
+---
 
 IANAL, but this is my attempt at making 2 licenses for distributing machine learning models
 
