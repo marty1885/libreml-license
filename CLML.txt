@@ -12,7 +12,7 @@ Permission is hereby granted, free of charge, to any person or organization obta
 
 4. Improvement: You have the freedom to improve upon this machine learning model, by implementing new features, optimizing its performance, or enhancing its capabilities. The improved versions of the model can be distributed under the terms of this license.
 
-Non-Relicensable: You may not sublicense, grant a sublicense, or transfer this machine learning model or any modified versions thereof to any third party under different terms or licenses. Any distribution of the model or modified versions must be done under the terms of this license.
+5. Non-Relicensable: You may not sublicense, grant a sublicense, or transfer this machine learning model or any modified versions thereof to any third party under different terms or licenses. Any distribution of the model or modified versions must be done under the terms of this license.
 
 This license does not impose any limitations  regarding the usage of the model. You are free to use the machine learning model for any purpose, without restrictions or obligations, including but not limited to commercial, non-commercial, personal, or educational use.
 
